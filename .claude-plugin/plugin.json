@@ -1,0 +1,15 @@
+{
+  "name": "my-flohmarkt",
+  "displayName": "My Flohmarkt",
+  "version": "0.1.0",
+  "description": "Find flea markets in Germany by city, postal code, date or radius, and read public event details from my-flohmarkt.de.",
+  "author": {
+    "name": "Krola Consulting GmbH",
+    "email": "info@my-flohmarkt.de",
+    "url": "https://my-flohmarkt.de/impressum"
+  },
+  "homepage": "https://my-flohmarkt.de/mcp.md",
+  "repository": "https://github.com/my-flohmarkt/claude-plugin",
+  "license": "LicenseRef-My-Flohmarkt-Proprietary",
+  "keywords": ["flea markets", "Flohmarkt", "Germany", "local events"]
+}

@@ -1,0 +1,61 @@
+My Flohmarkt Plugin License
+SPDX-License-Identifier: LicenseRef-My-Flohmarkt-Proprietary
+
+Copyright (c) 2026 Krola Consulting GmbH. All rights reserved.
+
+1. Scope
+
+This license applies to the My Flohmarkt plugin files distributed in this
+folder, including its manifest, connector configuration, skill, documentation
+and bundled branding. It does not license the My Flohmarkt website, backend,
+catalogue, third-party event content or any separate service.
+
+2. Permitted use
+
+The rights holder permits users to download, install and make the copies
+necessary to use this unmodified plugin with the My Flohmarkt service in Claude
+and other compatible hosts. Users may keep an archival copy for that purpose.
+
+3. Reserved rights
+
+Except as expressly permitted here, by mandatory law or by applicable
+hosting-platform rights, no permission is granted to modify or create
+derivative products from these files, repurpose them for another service,
+redistribute modified versions, sublicense them, sell them, or publish a
+separate plugin or directory listing using them. Obtain written permission
+from Krola Consulting GmbH for any such use. Preserve this license and the
+copyright notices in permitted copies.
+
+4. Authorized platform distribution
+
+Anthropic and platforms authorized by the rights holder may inspect and test
+the plugin, host and deliver unmodified copies for installation, and display
+its documentation, name and branding to identify and describe the My Flohmarkt
+integration, to the extent necessary for the authorized directory and service.
+This clause does not authorize third parties to publish a competing listing.
+Rights separately granted by the rights holder under applicable platform terms
+remain effective; this license does not purport to revoke them.
+
+5. Public repository copies
+
+If these files are hosted in a public GitHub repository, GitHub's applicable
+terms may permit viewing and forking within GitHub. This license does not
+disable that functionality or override those platform rights. A GitHub fork
+does not, under this license, grant additional permission to repurpose the
+plugin or distribute a modified product outside the rights already granted.
+
+6. Branding and service
+
+The My Flohmarkt name and logo may be displayed in the unmodified plugin to
+identify its connection to My Flohmarkt. No wider trademark or branding license
+is granted. Use of the live service remains subject to its own published terms
+and technical limits. No rights in third-party catalogue content are granted.
+
+7. Warranty and mandatory rights
+
+To the extent permitted by applicable law, these plugin files are provided
+without a warranty of uninterrupted service or complete catalogue information.
+Nothing in this license excludes liability or user rights that applicable law
+does not permit to be excluded.
+
+Contact: info@my-flohmarkt.de
